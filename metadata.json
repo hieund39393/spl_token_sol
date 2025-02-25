@@ -1,6 +1,6 @@
 {
-  "name": "MyToken",
-  "symbol": "MTK",
+  "name": "MyTokenT",
+  "symbol": "MTKT",
   "description": "Token được tạo bằng Anchor trên Solana.",
   "image": "https://raw.githubusercontent.com/hieund39393/spl_token_sol/main/apple-logo-icon-14895.png"
 }
