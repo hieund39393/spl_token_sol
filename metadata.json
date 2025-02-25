@@ -1,0 +1,6 @@
+{
+  "name": "MyToken",
+  "symbol": "MTK",
+  "description": "Token được tạo bằng Anchor trên Solana.",
+  "image": "https://raw.githubusercontent.com/username/repository/main/token.png"
+}
